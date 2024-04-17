@@ -1,3 +1,4 @@
 [submodule "src/shared-components"]
 	path = src/shared-components
 	url = git@github.com:Andreszd/shared-components.git
+	branch = dev
